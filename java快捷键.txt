@@ -1,0 +1,15 @@
+ctrl +shift+o 导包快捷键
+ctrl + 1查看解决方案
+CTRL + T    查看类继承结构图 
+CTRL + O   查看类结构图 
+ @xxx 注解类也是类
+SHIFT+ALT+S→override impleme methods→覆盖父类的方法
+ctrl +shift+T查找类文件
+ctrl +shift+R查找文件
+CTRL + D 快捷删除当前行
+CTRL + Z 快捷复原
+CTRL + S 快捷保存
+ctrl +shift+S
+Alt+Shift+R  （Refactor）重命名文件
+ctrl +shift+x/y 大小写转换
+Alt+Shift+s创建构造方法
